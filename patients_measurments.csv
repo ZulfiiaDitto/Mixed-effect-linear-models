@@ -1,0 +1,501 @@
+Patient ID,Age,Gender,Measure Type,Place,Value
+1001,56,Female,Respiratory Rate,Clinic,19
+1001,56,Female,Respiratory Rate,Clinic,18
+1001,56,Female,Respiratory Rate,Home,12
+1001,56,Female,Respiratory Rate,Home,15
+1001,56,Female,Blood Pressure,Clinic,159
+1001,56,Female,Blood Pressure,Clinic,133
+1001,56,Female,Blood Pressure,Home,125
+1001,56,Female,Blood Pressure,Home,125
+1001,56,Female,Blood Pressure,Home,125
+1019,46,Male,Respiratory Rate,Clinic,21
+1019,46,Male,Respiratory Rate,Clinic,24
+1019,46,Male,Respiratory Rate,Home,19
+1019,46,Male,Respiratory Rate,Home,14
+1019,46,Male,Blood Pressure,Clinic,144
+1019,46,Male,Blood Pressure,Clinic,138
+1019,46,Male,Blood Pressure,Home,129
+1019,46,Male,Blood Pressure,Home,128
+1027,32,Female,Blood Pressure,Clinic,150
+1027,32,Female,Blood Pressure,Clinic,168
+1027,32,Female,Blood Pressure,Home,127
+1027,32,Female,Blood Pressure,Home,118
+1027,32,Female,Respiratory Rate,Clinic,21
+1027,32,Female,Respiratory Rate,Clinic,19
+1027,32,Female,Respiratory Rate,Clinic,25
+1027,32,Female,Respiratory Rate,Home,24
+1027,32,Female,Respiratory Rate,Home,19
+1027,32,Female,Respiratory Rate,Home,12
+1046,60,Male,Blood Pressure,Clinic,160
+1046,60,Male,Blood Pressure,Clinic,171
+1046,60,Male,Blood Pressure,Home,127
+1046,60,Male,Blood Pressure,Home,126
+1046,60,Male,Blood Pressure,Home,123
+1046,60,Male,Respiratory Rate,Clinic,20
+1046,60,Male,Respiratory Rate,Clinic,32
+1046,60,Male,Respiratory Rate,Clinic,23
+1046,60,Male,Respiratory Rate,Home,16
+1046,60,Male,Respiratory Rate,Home,17
+1006,25,Male,Respiratory Rate,Clinic,28
+1006,25,Male,Respiratory Rate,Clinic,33
+1006,25,Male,Respiratory Rate,Clinic,33
+1006,25,Male,Respiratory Rate,Home,18
+1006,25,Male,Respiratory Rate,Home,18
+1006,25,Male,Respiratory Rate,Home,17
+1006,25,Male,Blood Pressure,Clinic,148
+1006,25,Male,Blood Pressure,Clinic,140
+1006,25,Male,Blood Pressure,Clinic,177
+1006,25,Male,Blood Pressure,Home,124
+1006,25,Male,Blood Pressure,Home,124
+1006,25,Male,Blood Pressure,Home,136
+1043,38,Male,Respiratory Rate,Clinic,16
+1043,38,Male,Respiratory Rate,Clinic,24
+1043,38,Male,Respiratory Rate,Clinic,21
+1043,38,Male,Respiratory Rate,Home,12
+1043,38,Male,Respiratory Rate,Home,11
+1043,38,Male,Pulse,Clinic,95
+1043,38,Male,Pulse,Clinic,91
+1043,38,Male,Pulse,Clinic,100
+1043,38,Male,Pulse,Home,69
+1043,38,Male,Pulse,Home,80
+1007,56,Female,Blood Pressure,Clinic,177
+1007,56,Female,Blood Pressure,Clinic,177
+1007,56,Female,Blood Pressure,Home,124
+1007,56,Female,Blood Pressure,Home,128
+1007,56,Female,Blood Pressure,Home,122
+1007,56,Female,Pulse,Clinic,101
+1007,56,Female,Pulse,Clinic,97
+1007,56,Female,Pulse,Home,86
+1007,56,Female,Pulse,Home,75
+1046,36,Female,Respiratory Rate,Clinic,25
+1046,36,Female,Respiratory Rate,Clinic,12
+1046,36,Female,Respiratory Rate,Home,14
+1046,36,Female,Respiratory Rate,Home,19
+1046,36,Female,Pulse,Clinic,105
+1046,36,Female,Pulse,Clinic,83
+1046,36,Female,Pulse,Clinic,106
+1046,36,Female,Pulse,Home,79
+1046,36,Female,Pulse,Home,77
+1046,36,Female,Pulse,Home,80
+1034,40,Female,Respiratory Rate,Clinic,31
+1034,40,Female,Respiratory Rate,Clinic,28
+1034,40,Female,Respiratory Rate,Home,18
+1034,40,Female,Respiratory Rate,Home,20
+1034,40,Female,Blood Pressure,Clinic,156
+1034,40,Female,Blood Pressure,Clinic,158
+1034,40,Female,Blood Pressure,Home,127
+1034,40,Female,Blood Pressure,Home,134
+1034,40,Female,Blood Pressure,Home,128
+1013,28,Female,Pulse,Clinic,105
+1013,28,Female,Pulse,Clinic,96
+1013,28,Female,Pulse,Home,79
+1013,28,Female,Pulse,Home,60
+1013,28,Female,Pulse,Home,66
+1013,28,Female,Respiratory Rate,Clinic,15
+1013,28,Female,Respiratory Rate,Clinic,21
+1013,28,Female,Respiratory Rate,Clinic,21
+1013,28,Female,Respiratory Rate,Home,12
+1013,28,Female,Respiratory Rate,Home,9
+1013,28,Female,Respiratory Rate,Home,10
+1016,28,Male,Blood Pressure,Clinic,152
+1016,28,Male,Blood Pressure,Clinic,149
+1016,28,Male,Blood Pressure,Clinic,147
+1016,28,Male,Blood Pressure,Home,130
+1016,28,Male,Blood Pressure,Home,133
+1016,28,Male,Blood Pressure,Home,136
+1016,28,Male,Respiratory Rate,Clinic,21
+1016,28,Male,Respiratory Rate,Clinic,27
+1016,28,Male,Respiratory Rate,Clinic,28
+1016,28,Male,Respiratory Rate,Home,19
+1016,28,Male,Respiratory Rate,Home,22
+1016,28,Male,Respiratory Rate,Home,21
+1035,41,Female,Respiratory Rate,Clinic,35
+1035,41,Female,Respiratory Rate,Clinic,26
+1035,41,Female,Respiratory Rate,Clinic,22
+1035,41,Female,Respiratory Rate,Home,24
+1035,41,Female,Respiratory Rate,Home,23
+1035,41,Female,Pulse,Clinic,102
+1035,41,Female,Pulse,Clinic,102
+1035,41,Female,Pulse,Clinic,104
+1035,41,Female,Pulse,Home,82
+1035,41,Female,Pulse,Home,81
+1035,41,Female,Pulse,Home,72
+1049,53,Female,Respiratory Rate,Clinic,18
+1049,53,Female,Respiratory Rate,Clinic,25
+1049,53,Female,Respiratory Rate,Home,14
+1049,53,Female,Respiratory Rate,Home,19
+1049,53,Female,Respiratory Rate,Home,15
+1049,53,Female,Blood Pressure,Clinic,179
+1049,53,Female,Blood Pressure,Clinic,158
+1049,53,Female,Blood Pressure,Home,126
+1049,53,Female,Blood Pressure,Home,125
+1039,57,Female,Pulse,Clinic,106
+1039,57,Female,Pulse,Clinic,120
+1039,57,Female,Pulse,Home,75
+1039,57,Female,Pulse,Home,87
+1039,57,Female,Respiratory Rate,Clinic,22
+1039,57,Female,Respiratory Rate,Clinic,28
+1039,57,Female,Respiratory Rate,Clinic,32
+1039,57,Female,Respiratory Rate,Home,26
+1039,57,Female,Respiratory Rate,Home,23
+1003,41,Female,Pulse,Clinic,106
+1003,41,Female,Pulse,Clinic,95
+1003,41,Female,Pulse,Home,75
+1003,41,Female,Pulse,Home,85
+1003,41,Female,Respiratory Rate,Clinic,19
+1003,41,Female,Respiratory Rate,Clinic,28
+1003,41,Female,Respiratory Rate,Clinic,27
+1003,41,Female,Respiratory Rate,Home,15
+1003,41,Female,Respiratory Rate,Home,19
+1003,41,Female,Respiratory Rate,Home,23
+1001,20,Female,Pulse,Clinic,95
+1001,20,Female,Pulse,Clinic,99
+1001,20,Female,Pulse,Clinic,115
+1001,20,Female,Pulse,Home,83
+1001,20,Female,Pulse,Home,80
+1001,20,Female,Pulse,Home,86
+1001,20,Female,Blood Pressure,Clinic,163
+1001,20,Female,Blood Pressure,Clinic,175
+1001,20,Female,Blood Pressure,Clinic,185
+1001,20,Female,Blood Pressure,Home,128
+1001,20,Female,Blood Pressure,Home,139
+1005,39,Male,Pulse,Clinic,114
+1005,39,Male,Pulse,Clinic,108
+1005,39,Male,Pulse,Clinic,101
+1005,39,Male,Pulse,Home,71
+1005,39,Male,Pulse,Home,92
+1005,39,Male,Respiratory Rate,Clinic,30
+1005,39,Male,Respiratory Rate,Clinic,25
+1005,39,Male,Respiratory Rate,Home,23
+1005,39,Male,Respiratory Rate,Home,20
+1041,19,Female,Respiratory Rate,Clinic,30
+1041,19,Female,Respiratory Rate,Clinic,15
+1041,19,Female,Respiratory Rate,Clinic,15
+1041,19,Female,Respiratory Rate,Home,14
+1041,19,Female,Respiratory Rate,Home,17
+1041,19,Female,Respiratory Rate,Home,17
+1041,19,Female,Pulse,Clinic,103
+1041,19,Female,Pulse,Clinic,108
+1041,19,Female,Pulse,Home,62
+1041,19,Female,Pulse,Home,79
+1003,41,Male,Pulse,Clinic,102
+1003,41,Male,Pulse,Clinic,101
+1003,41,Male,Pulse,Clinic,90
+1003,41,Male,Pulse,Home,72
+1003,41,Male,Pulse,Home,72
+1003,41,Male,Blood Pressure,Clinic,171
+1003,41,Male,Blood Pressure,Clinic,165
+1003,41,Male,Blood Pressure,Home,122
+1003,41,Male,Blood Pressure,Home,120
+1003,41,Male,Blood Pressure,Home,121
+1028,61,Female,Blood Pressure,Clinic,148
+1028,61,Female,Blood Pressure,Clinic,148
+1028,61,Female,Blood Pressure,Clinic,174
+1028,61,Female,Blood Pressure,Home,128
+1028,61,Female,Blood Pressure,Home,124
+1028,61,Female,Pulse,Clinic,95
+1028,61,Female,Pulse,Clinic,107
+1028,61,Female,Pulse,Home,67
+1028,61,Female,Pulse,Home,77
+1028,61,Female,Pulse,Home,71
+1017,47,Male,Blood Pressure,Clinic,143
+1017,47,Male,Blood Pressure,Clinic,141
+1017,47,Male,Blood Pressure,Clinic,161
+1017,47,Male,Blood Pressure,Home,117
+1017,47,Male,Blood Pressure,Home,113
+1017,47,Male,Blood Pressure,Home,116
+1017,47,Male,Pulse,Clinic,97
+1017,47,Male,Pulse,Clinic,105
+1017,47,Male,Pulse,Home,67
+1017,47,Male,Pulse,Home,79
+1025,55,Female,Pulse,Clinic,113
+1025,55,Female,Pulse,Clinic,107
+1025,55,Female,Pulse,Home,77
+1025,55,Female,Pulse,Home,67
+1025,55,Female,Respiratory Rate,Clinic,29
+1025,55,Female,Respiratory Rate,Clinic,35
+1025,55,Female,Respiratory Rate,Clinic,33
+1025,55,Female,Respiratory Rate,Home,24
+1025,55,Female,Respiratory Rate,Home,23
+1025,55,Female,Respiratory Rate,Home,23
+1043,19,Female,Pulse,Clinic,97
+1043,19,Female,Pulse,Clinic,92
+1043,19,Female,Pulse,Home,71
+1043,19,Female,Pulse,Home,80
+1043,19,Female,Pulse,Home,70
+1043,19,Female,Respiratory Rate,Clinic,27
+1043,19,Female,Respiratory Rate,Clinic,14
+1043,19,Female,Respiratory Rate,Clinic,23
+1043,19,Female,Respiratory Rate,Home,11
+1043,19,Female,Respiratory Rate,Home,18
+1033,38,Male,Pulse,Clinic,87
+1033,38,Male,Pulse,Clinic,97
+1033,38,Male,Pulse,Home,75
+1033,38,Male,Pulse,Home,83
+1033,38,Male,Respiratory Rate,Clinic,28
+1033,38,Male,Respiratory Rate,Clinic,14
+1033,38,Male,Respiratory Rate,Clinic,17
+1033,38,Male,Respiratory Rate,Home,14
+1033,38,Male,Respiratory Rate,Home,13
+1033,38,Male,Respiratory Rate,Home,15
+1009,50,Male,Respiratory Rate,Clinic,18
+1009,50,Male,Respiratory Rate,Clinic,27
+1009,50,Male,Respiratory Rate,Clinic,23
+1009,50,Male,Respiratory Rate,Home,16
+1009,50,Male,Respiratory Rate,Home,15
+1009,50,Male,Respiratory Rate,Home,11
+1009,50,Male,Blood Pressure,Clinic,148
+1009,50,Male,Blood Pressure,Clinic,144
+1009,50,Male,Blood Pressure,Clinic,142
+1009,50,Male,Blood Pressure,Home,111
+1009,50,Male,Blood Pressure,Home,122
+1035,29,Male,Respiratory Rate,Clinic,27
+1035,29,Male,Respiratory Rate,Clinic,28
+1035,29,Male,Respiratory Rate,Home,18
+1035,29,Male,Respiratory Rate,Home,25
+1035,29,Male,Blood Pressure,Clinic,159
+1035,29,Male,Blood Pressure,Clinic,176
+1035,29,Male,Blood Pressure,Home,128
+1035,29,Male,Blood Pressure,Home,136
+1013,39,Female,Blood Pressure,Clinic,149
+1013,39,Female,Blood Pressure,Clinic,138
+1013,39,Female,Blood Pressure,Home,142
+1013,39,Female,Blood Pressure,Home,132
+1013,39,Female,Blood Pressure,Home,132
+1013,39,Female,Respiratory Rate,Clinic,31
+1013,39,Female,Respiratory Rate,Clinic,27
+1013,39,Female,Respiratory Rate,Clinic,25
+1013,39,Female,Respiratory Rate,Home,28
+1013,39,Female,Respiratory Rate,Home,27
+1030,61,Male,Blood Pressure,Clinic,171
+1030,61,Male,Blood Pressure,Clinic,172
+1030,61,Male,Blood Pressure,Clinic,154
+1030,61,Male,Blood Pressure,Home,126
+1030,61,Male,Blood Pressure,Home,127
+1030,61,Male,Blood Pressure,Home,120
+1030,61,Male,Respiratory Rate,Clinic,16
+1030,61,Male,Respiratory Rate,Clinic,30
+1030,61,Male,Respiratory Rate,Clinic,26
+1030,61,Male,Respiratory Rate,Home,18
+1030,61,Male,Respiratory Rate,Home,22
+1030,61,Male,Respiratory Rate,Home,19
+1047,42,Female,Pulse,Clinic,88
+1047,42,Female,Pulse,Clinic,87
+1047,42,Female,Pulse,Clinic,79
+1047,42,Female,Pulse,Home,74
+1047,42,Female,Pulse,Home,72
+1047,42,Female,Blood Pressure,Clinic,161
+1047,42,Female,Blood Pressure,Clinic,143
+1047,42,Female,Blood Pressure,Home,120
+1047,42,Female,Blood Pressure,Home,122
+1014,66,Female,Pulse,Clinic,104
+1014,66,Female,Pulse,Clinic,91
+1014,66,Female,Pulse,Clinic,114
+1014,66,Female,Pulse,Home,88
+1014,66,Female,Pulse,Home,80
+1014,66,Female,Pulse,Home,85
+1014,66,Female,Blood Pressure,Clinic,152
+1014,66,Female,Blood Pressure,Clinic,175
+1014,66,Female,Blood Pressure,Clinic,157
+1014,66,Female,Blood Pressure,Home,125
+1014,66,Female,Blood Pressure,Home,128
+1014,66,Female,Blood Pressure,Home,130
+1007,44,Male,Respiratory Rate,Clinic,30
+1007,44,Male,Respiratory Rate,Clinic,27
+1007,44,Male,Respiratory Rate,Clinic,21
+1007,44,Male,Respiratory Rate,Home,22
+1007,44,Male,Respiratory Rate,Home,17
+1007,44,Male,Respiratory Rate,Home,16
+1007,44,Male,Pulse,Clinic,95
+1007,44,Male,Pulse,Clinic,91
+1007,44,Male,Pulse,Home,79
+1007,44,Male,Pulse,Home,72
+1007,44,Male,Pulse,Home,83
+1013,59,Male,Blood Pressure,Clinic,138
+1013,59,Male,Blood Pressure,Clinic,166
+1013,59,Male,Blood Pressure,Home,114
+1013,59,Male,Blood Pressure,Home,121
+1013,59,Male,Blood Pressure,Home,123
+1013,59,Male,Pulse,Clinic,88
+1013,59,Male,Pulse,Clinic,97
+1013,59,Male,Pulse,Clinic,99
+1013,59,Male,Pulse,Home,73
+1013,59,Male,Pulse,Home,79
+1022,45,Female,Pulse,Clinic,87
+1022,45,Female,Pulse,Clinic,110
+1022,45,Female,Pulse,Clinic,114
+1022,45,Female,Pulse,Home,75
+1022,45,Female,Pulse,Home,78
+1022,45,Female,Respiratory Rate,Clinic,28
+1022,45,Female,Respiratory Rate,Clinic,26
+1022,45,Female,Respiratory Rate,Home,17
+1022,45,Female,Respiratory Rate,Home,23
+1022,45,Female,Respiratory Rate,Home,20
+1039,33,Female,Respiratory Rate,Clinic,28
+1039,33,Female,Respiratory Rate,Clinic,26
+1039,33,Female,Respiratory Rate,Home,15
+1039,33,Female,Respiratory Rate,Home,18
+1039,33,Female,Respiratory Rate,Home,18
+1039,33,Female,Blood Pressure,Clinic,163
+1039,33,Female,Blood Pressure,Clinic,160
+1039,33,Female,Blood Pressure,Clinic,158
+1039,33,Female,Blood Pressure,Home,121
+1039,33,Female,Blood Pressure,Home,137
+1039,33,Female,Blood Pressure,Home,122
+1020,32,Male,Respiratory Rate,Clinic,34
+1020,32,Male,Respiratory Rate,Clinic,19
+1020,32,Male,Respiratory Rate,Clinic,32
+1020,32,Male,Respiratory Rate,Home,21
+1020,32,Male,Respiratory Rate,Home,25
+1020,32,Male,Blood Pressure,Clinic,182
+1020,32,Male,Blood Pressure,Clinic,174
+1020,32,Male,Blood Pressure,Clinic,170
+1020,32,Male,Blood Pressure,Home,121
+1020,32,Male,Blood Pressure,Home,120
+1015,64,Male,Blood Pressure,Clinic,172
+1015,64,Male,Blood Pressure,Clinic,168
+1015,64,Male,Blood Pressure,Clinic,149
+1015,64,Male,Blood Pressure,Home,128
+1015,64,Male,Blood Pressure,Home,131
+1015,64,Male,Blood Pressure,Home,127
+1015,64,Male,Respiratory Rate,Clinic,27
+1015,64,Male,Respiratory Rate,Clinic,37
+1015,64,Male,Respiratory Rate,Clinic,41
+1015,64,Male,Respiratory Rate,Home,27
+1015,64,Male,Respiratory Rate,Home,23
+1044,61,Male,Blood Pressure,Clinic,140
+1044,61,Male,Blood Pressure,Clinic,160
+1044,61,Male,Blood Pressure,Clinic,159
+1044,61,Male,Blood Pressure,Home,119
+1044,61,Male,Blood Pressure,Home,121
+1044,61,Male,Blood Pressure,Home,128
+1044,61,Male,Respiratory Rate,Clinic,29
+1044,61,Male,Respiratory Rate,Clinic,26
+1044,61,Male,Respiratory Rate,Clinic,31
+1044,61,Male,Respiratory Rate,Home,9
+1044,61,Male,Respiratory Rate,Home,17
+1017,20,Female,Pulse,Clinic,110
+1017,20,Female,Pulse,Clinic,87
+1017,20,Female,Pulse,Home,68
+1017,20,Female,Pulse,Home,75
+1017,20,Female,Respiratory Rate,Clinic,17
+1017,20,Female,Respiratory Rate,Clinic,21
+1017,20,Female,Respiratory Rate,Home,14
+1017,20,Female,Respiratory Rate,Home,21
+1017,20,Female,Respiratory Rate,Home,21
+1046,54,Female,Blood Pressure,Clinic,150
+1046,54,Female,Blood Pressure,Clinic,160
+1046,54,Female,Blood Pressure,Home,115
+1046,54,Female,Blood Pressure,Home,130
+1046,54,Female,Blood Pressure,Home,119
+1046,54,Female,Respiratory Rate,Clinic,23
+1046,54,Female,Respiratory Rate,Clinic,28
+1046,54,Female,Respiratory Rate,Clinic,26
+1046,54,Female,Respiratory Rate,Home,17
+1046,54,Female,Respiratory Rate,Home,10
+1023,24,Female,Respiratory Rate,Clinic,22
+1023,24,Female,Respiratory Rate,Clinic,31
+1023,24,Female,Respiratory Rate,Clinic,25
+1023,24,Female,Respiratory Rate,Home,15
+1023,24,Female,Respiratory Rate,Home,21
+1023,24,Female,Blood Pressure,Clinic,157
+1023,24,Female,Blood Pressure,Clinic,143
+1023,24,Female,Blood Pressure,Home,128
+1023,24,Female,Blood Pressure,Home,132
+1025,38,Female,Pulse,Clinic,95
+1025,38,Female,Pulse,Clinic,107
+1025,38,Female,Pulse,Home,87
+1025,38,Female,Pulse,Home,88
+1025,38,Female,Blood Pressure,Clinic,176
+1025,38,Female,Blood Pressure,Clinic,168
+1025,38,Female,Blood Pressure,Clinic,155
+1025,38,Female,Blood Pressure,Home,141
+1025,38,Female,Blood Pressure,Home,130
+1024,26,Female,Blood Pressure,Clinic,152
+1024,26,Female,Blood Pressure,Clinic,177
+1024,26,Female,Blood Pressure,Home,129
+1024,26,Female,Blood Pressure,Home,128
+1024,26,Female,Pulse,Clinic,102
+1024,26,Female,Pulse,Clinic,94
+1024,26,Female,Pulse,Home,79
+1024,26,Female,Pulse,Home,82
+1024,26,Female,Pulse,Home,80
+1044,56,Female,Pulse,Clinic,106
+1044,56,Female,Pulse,Clinic,100
+1044,56,Female,Pulse,Home,71
+1044,56,Female,Pulse,Home,76
+1044,56,Female,Pulse,Home,77
+1044,56,Female,Respiratory Rate,Clinic,18
+1044,56,Female,Respiratory Rate,Clinic,28
+1044,56,Female,Respiratory Rate,Home,14
+1044,56,Female,Respiratory Rate,Home,9
+1044,56,Female,Respiratory Rate,Home,14
+1040,35,Male,Pulse,Clinic,100
+1040,35,Male,Pulse,Clinic,97
+1040,35,Male,Pulse,Clinic,100
+1040,35,Male,Pulse,Home,73
+1040,35,Male,Pulse,Home,68
+1040,35,Male,Pulse,Home,79
+1040,35,Male,Blood Pressure,Clinic,171
+1040,35,Male,Blood Pressure,Clinic,146
+1040,35,Male,Blood Pressure,Clinic,158
+1040,35,Male,Blood Pressure,Home,130
+1040,35,Male,Blood Pressure,Home,138
+1028,21,Female,Pulse,Clinic,108
+1028,21,Female,Pulse,Clinic,106
+1028,21,Female,Pulse,Home,84
+1028,21,Female,Pulse,Home,79
+1028,21,Female,Pulse,Home,83
+1028,21,Female,Respiratory Rate,Clinic,34
+1028,21,Female,Respiratory Rate,Clinic,26
+1028,21,Female,Respiratory Rate,Home,21
+1028,21,Female,Respiratory Rate,Home,21
+1028,21,Female,Respiratory Rate,Home,22
+1014,42,Female,Respiratory Rate,Clinic,18
+1014,42,Female,Respiratory Rate,Clinic,22
+1014,42,Female,Respiratory Rate,Home,14
+1014,42,Female,Respiratory Rate,Home,17
+1014,42,Female,Pulse,Clinic,95
+1014,42,Female,Pulse,Clinic,103
+1014,42,Female,Pulse,Clinic,90
+1014,42,Female,Pulse,Home,83
+1014,42,Female,Pulse,Home,70
+1044,31,Female,Respiratory Rate,Clinic,23
+1044,31,Female,Respiratory Rate,Clinic,28
+1044,31,Female,Respiratory Rate,Clinic,16
+1044,31,Female,Respiratory Rate,Home,13
+1044,31,Female,Respiratory Rate,Home,6
+1044,31,Female,Blood Pressure,Clinic,149
+1044,31,Female,Blood Pressure,Clinic,161
+1044,31,Female,Blood Pressure,Home,119
+1044,31,Female,Blood Pressure,Home,125
+1044,31,Female,Blood Pressure,Home,119
+1000,67,Male,Respiratory Rate,Clinic,29
+1000,67,Male,Respiratory Rate,Clinic,14
+1000,67,Male,Respiratory Rate,Home,14
+1000,67,Male,Respiratory Rate,Home,15
+1000,67,Male,Respiratory Rate,Home,10
+1000,67,Male,Blood Pressure,Clinic,165
+1000,67,Male,Blood Pressure,Clinic,151
+1000,67,Male,Blood Pressure,Home,123
+1000,67,Male,Blood Pressure,Home,128
+1024,26,Female,Respiratory Rate,Clinic,28
+1024,26,Female,Respiratory Rate,Clinic,35
+1024,26,Female,Respiratory Rate,Clinic,32
+1024,26,Female,Respiratory Rate,Home,25
+1024,26,Female,Respiratory Rate,Home,13
+1024,26,Female,Respiratory Rate,Home,19
+1024,26,Female,Pulse,Clinic,104
+1024,26,Female,Pulse,Clinic,112
+1024,26,Female,Pulse,Clinic,105
+1024,26,Female,Pulse,Home,90
+1024,26,Female,Pulse,Home,71
+1024,26,Female,Pulse,Home,79
+1006,43,Female,Blood Pressure,Clinic,178
+1006,43,Female,Blood Pressure,Clinic,185
+1006,43,Female,Blood Pressure,Home,139
+1006,43,Female,Blood Pressure,Home,124
+1006,43,Female,Respiratory Rate,Clinic,26
+1006,43,Female,Respiratory Rate,Clinic,23
+1006,43,Female,Respiratory Rate,Home,15
+1006,43,Female,Respiratory Rate,Home,18
