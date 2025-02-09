@@ -32,7 +32,7 @@ df %>%
   ggplot(aes(x = interaction(Place, Measure.Type), y = Value,  fill = Measure.Type)) + 
   geom_boxplot() + coord_flip() 
 
-
+# by gender and Collection place
 df %>% 
   group_by(Gender, Measure.Type) %>% 
   ggplot(aes(x = interaction(Gender, Measure.Type), y = Value,  fill = Gender)) + 
@@ -69,9 +69,11 @@ table(rr$Place)
 model = lmer(Value ~ Place  + (1|Patient.ID)  , data=BP)
 summary(model)
 
+
 model.2 = lmer(Value ~ Place + Gender + Age + (1|Patient.ID)  , data=BP)
 summary(model.2)
 
+coef(model.2)
 
 #### significance of the model utilizing the anova 
 
@@ -86,6 +88,7 @@ anova(model.null, model.atr)
 model3 = lmer(Value ~ Place + (1+ Value|Patient.ID), data=BP)
 
 summary(model3)
+
 # you can see we over-complex the model -> isSingular() function in both cases return True 
 
 isSingular(model3)
