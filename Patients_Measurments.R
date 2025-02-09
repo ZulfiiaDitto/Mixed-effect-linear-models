@@ -85,7 +85,7 @@ anova(model.null, model.atr)
 
 ##### random slope 
 
-model3 = lmer(Value ~ Place + (1+ Value|Patient.ID), data=BP)
+model3 = lmer(Value ~ Place + (1+ Place|Patient.ID), data=BP)
 
 summary(model3)
 
